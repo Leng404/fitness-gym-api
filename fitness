@@ -1,0 +1,273 @@
+[
+  {
+    "id": 1,
+    "name": "Resistance Band Set",
+    "description": "Full-body workout resistance bands with different strength levels.",
+    "price": 2.4,
+    "category": "Workout Bands",
+    "image": "https://www.prosourcefit.com/cdn/shop/files/Tube-Resistance-Bands-with-Attached-Handles-01-Shopify.jpg?v=1731018432&width=1500",
+    "stock": 120
+  },
+  {
+    "id": 2,
+    "name": "Yoga Mat",
+    "description": "Non-slip thick yoga mat for stretching and floor workouts.",
+    "price": 5.0,
+    "category": "Yoga",
+    "image": "https://jadeyoga.com/cdn/shop/products/Jade-Yoga-LevelOne-Mat-Classic-Purple-Flat_1024x.jpg?v=1631819938",
+    "stock": 80
+  },
+  {
+    "id": 3,
+    "name": "Adjustable Jump Rope",
+    "description": "Speed jump rope for cardio and fat burning workouts.",
+    "price": 1.9,
+    "category": "Cardio",
+    "image": "https://kefl.co.uk/cdn/shop/products/kefl-adjustable-speed-skipping-rope-l300cm-7530314.jpg?v=1756893022&width=2048",
+    "stock": 150
+  },
+  {
+    "id": 4,
+    "name": "Wrist Wraps",
+    "description": "Supportive wrist wraps for heavy lifting.",
+    "price": 3.2,
+    "category": "Support Gear",
+    "image": "https://hustlersonlypk.com/cdn/shop/products/Wrist_Wraps_White_Stripes.jpg?v=1724790018",
+    "stock": 70
+  },
+  {
+    "id": 5,
+    "name": "Foam Roller",
+    "description": "Muscle recovery foam roller for deep tissue massage.",
+    "price": 4.5,
+    "category": "Recovery",
+    "image": "https://www.achievefitness.co.nz/media/catalog/product/cache/65c1de99e9ec6fa68ea31c798ef9aee9/y/k/yk82030_york_hollow_foam_roller.jpg",
+    "stock": 55
+  },
+  {
+    "id": 6,
+    "name": "Gym Gloves",
+    "description": "Breathable gloves for weightlifting and grip support.",
+    "price": 3.0,
+    "category": "Support Gear",
+    "image": "https://m.media-amazon.com/images/I/712EzLuywHS._AC_SL1200_.jpg",
+    "stock": 100
+  },
+  {
+    "id": 7,
+    "name": "Knee Sleeves",
+    "description": "Compression knee sleeves for squats and leg workouts.",
+    "price": 6.0,
+    "category": "Support Gear",
+    "image": "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_1600,b_rgb:ffffff/catalog/Straps%20Wraps%20and%20Support%20/Protection%20and%20Supports/Knee/TEC0021-BLK/TEC0021-BLK-H_heyjmk.png",
+    "stock": 40
+  },
+  {
+    "id": 8,
+    "name": "Pull-Up Resistance Bands",
+    "description": "Heavy-duty bands for assisted pull-ups and strength training.",
+    "price": 4.2,
+    "category": "Workout Bands",
+    "image": "https://tribelifting.com/cdn/shop/files/715euyjt4DL.jpg?v=1718028786",
+    "stock": 90
+  },
+ 
+  {
+    "id": 9,
+    "name": "Leg Curl Machine",
+    "description": "Commercial-grade machine designed for hamstring isolation.",
+    "price": 75.0,
+    "category": "Machine Gym",
+    "image": "https://www.fitkituk.com/images/products/1722342303-50551000.png",
+    "stock": 10
+  },
+  {
+    "id": 10,
+    "name": "Chest Press Machine",
+    "description": "Strength machine for chest and triceps with adjustable weight stack.",
+    "price": 120.0,
+    "category": "Machine Gym",
+    "image": "https://example.com/images/machine_chestpress.jpg",
+    "stock": 8
+  },
+  {
+    "id": 11,
+    "name": "Lat Pulldown Machine",
+    "description": "Back training machine for lats and upper body strength.",
+    "price": 110.0,
+    "category": "Machine Gym",
+    "image": "https://yorkbarbell.com/wp-content/uploads/2017/01/48051-york-fts-lat-pull-down-main.jpg",
+    "stock": 6
+  },
+  {
+    "id": 12,
+    "name": "Cable Crossover Machine",
+    "description": "Dual cable crossover for chest, arms, and shoulders.",
+    "price": 190.0,
+    "category": "Machine Gym",
+    "image": "https://inflightfitness.com/wp-content/uploads/2023/08/InFlight-Fitness-Tiff-4572-Final-1.webp",
+    "stock": 4
+  },
+  {
+    "id": 13,
+    "name": "Leg Press Machine",
+    "description": "Heavy-duty leg press machine for lower body power.",
+    "price": 200.0,
+    "category": "Machine Gym",
+    "image": "https://www.activego.com.au/cdn/shop/files/CSST-LP10_media-01.jpg?v=1726035676",
+    "stock": 5
+  },
+  {
+    "id": 14,
+    "name": "Smith Machine",
+    "description": "Multipurpose Smith machine for guided barbell workouts.",
+    "price": 250.0,
+    "category": "Machine Gym",
+    "image": "https://resources.fitshop.com/bilder/hoist/mi/2024/MiSmith_product-1_1600.jpg",
+    "stock": 3
+  },
+  {
+    "id": 15,
+    "name": "Seated Row Machine",
+    "description": "Machine for back rowing exercises targeting mid-lats.",
+    "price": 115.0,
+    "category": "Machine Gym",
+    "image": "https://shop.lifefitness.com/cdn/shop/files/cybex-ion-seated-row-platinum-black-1000x1000_1200x1200.jpg?v=1748945243",
+    "stock": 7
+  },
+  {
+    "id": 16,
+    "name": "Pec Deck Machine",
+    "description": "Fly machine used for chest muscle isolation.",
+    "price": 130.0,
+    "category": "Machine Gym",
+    "image": "https://titan.fitness/cdn/shop/files/401494_01.jpg?v=1762987273",
+    "stock": 5
+  },
+  {
+    "id": 17,
+    "name": "Hack Squat Machine",
+    "description": "Lower body strength machine for quads and glutes.",
+    "price": 190.0,
+    "category": "Machine Gym",
+    "image": "https://www.primefitnessusa.com/cdn/shop/files/XP-107Base-1208430A_1024x.jpg?v=1708541076",
+    "stock": 4
+  },
+  {
+    "id": 18,
+    "name": "Shoulder Press Machine",
+    "description": "Overhead press machine for shoulders and upper body.",
+    "price": 125.0,
+    "category": "Machine Gym",
+    "image": "https://www.primefitnessusa.com/cdn/shop/files/P-103_-_1208502_A_1024x.jpg?v=1717617367",
+    "stock": 6
+  },
+  {
+    "id": 19,
+    "name": "Bicep Curl Machine",
+    "description": "Preacher-style curling machine for biceps.",
+    "price": 90.0,
+    "category": "Machine Gym",
+    "image": "https://www.topfitness.com/cdn/shop/files/precor-vitality-series-biceps-curl-c003-377381_grande.jpg?v=1726623236",
+    "stock": 9
+  },
+  {
+    "id": 20,
+    "name": "Tricep Extension Machine",
+    "description": "Machine for isolating the triceps with adjustable resistance.",
+    "price": 85.0,
+    "category": "Machine Gym",
+    "image": "https://gophersport.com/media/catalog/product/g/-/g-68350-bicepcurl.jpg?optimize=low&bg-color=255,255,255&fit=bounds&height=744&width=744&canvas=744:744",
+    "stock": 9
+  },
+  {
+    "id": 21,
+    "name": "Treadmill",
+    "description": "Cardio running treadmill with digital display.",
+    "price": 300.0,
+    "category": "Machine Gym",
+    "image": "https://spartanfitness.ca/cdn/shop/files/Z500rear3_4LCD.jpg?v=1737504991&width=2400",
+    "stock": 5
+  },
+  {
+    "id": 22,
+    "name": "Elliptical Trainer",
+    "description": "Low-impact machine for cardio and full-body movement.",
+    "price": 280.0,
+    "category": "Machine Gym",
+    "image": "https://cdn.fitshop.co.uk/pictures/cardiostrong/elliptical_cross_trainers/CST-FX30-3/cardiostrong_FX30_Elliptical_Cross_Trainer_Rear_View_1600x1600_1600.jpg",
+    "stock": 4
+  },
+  {
+    "id": 23,
+    "name": "Spin Bike",
+    "description": "Indoor cycling bike for high-intensity cardio workouts.",
+    "price": 220.0,
+    "category": "Machine Gym",
+    "image": "https://www.gymandfitness.com.au/cdn/shop/products/0008_1-HERO_bbee3538-39cd-4b07-80b5-59e4a62bb143.jpg?v=1619583060",
+    "stock": 6
+  },
+  {
+    "id": 24,
+    "name": "Rowing Machine",
+    "description": "Full-body cardio rowing machine with resistance control.",
+    "price": 260.0,
+    "category": "Machine Gym",
+    "image": "https://m.media-amazon.com/images/I/51hWEGkT0xL._AC_UF1000,1000_QL80_.jpg",
+    "stock": 5
+  },
+  {
+    "id": 25,
+    "name": "Stair Climber",
+    "description": "Cardio machine simulating stair climbing motion.",
+    "price": 400.0,
+    "category": "Machine Gym",
+    "image": "https://www.globalrelax.com/img/p/3/4/3/0/3430.jpg",
+    "stock": 3
+  },
+  {
+    "id": 26,
+    "name": "Hip Abductor Machine",
+    "description": "Lower body training machine for outer thighs and glutes.",
+    "price": 140.0,
+    "category": "Machine Gym",
+    "image": "https://www.ukgymequipment.com/images/select-hip-abduction-abductor-p1908-19397_image.jpg",
+    "stock": 6
+  },
+  {
+    "id": 27,
+    "name": "Back Extension Machine",
+    "description": "Machine for strengthening lower back muscles.",
+    "price": 100.0,
+    "category": "Machine Gym",
+    "image": "https://orbitfitness.com.au/cdn/shop/files/8337.jpg?v=1718124066&width=1445",
+    "stock": 9
+  },
+  {
+    "id": 28,
+    "name": "Calf Raise Machine",
+    "description": "Machine for isolated calf muscle training.",
+    "price": 110.0,
+    "category": "Machine Gym",
+    "image": "https://www.eliteprofitca.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-10-24-at-7.45.24-PM-1.jpeg",
+    "stock": 7
+  },
+  {
+    "id": 29,
+    "name": "Inner Thigh Machine",
+    "description": "Adductor machine for inner thigh muscle activation.",
+    "price": 135.0,
+    "category": "Machine Gym",
+    "image": "https://m.media-amazon.com/images/I/61bQzSw6b8L._UF1000,1000_QL80_.jpg",
+    "stock": 5
+  },
+  {
+    "id": 30,
+    "name": "Power Rack Machine",
+    "description": "Full-size power rack for barbell and strength training.",
+    "price": 320.0,
+    "category": "Machine Gym",
+    "image": "https://m.media-amazon.com/images/I/616lU6NTTPL._AC_SL1500_.jpg",
+    "stock": 3
+  }
+]
